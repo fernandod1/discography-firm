@@ -1,5 +1,5 @@
 
-# Fitness activities tracker
+# Discography firm app
 
 Small Laravel web project to manage the database of musical
 records from a discography firm. Features:
